@@ -1,0 +1,8 @@
+coordinates:
+  name: angular
+  provider: npmjs
+  type: npm
+revisions:
+  1.6.9:
+    licensed:
+      declared: Apache-1.0 AND MIT
