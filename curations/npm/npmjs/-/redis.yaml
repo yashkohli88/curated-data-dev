@@ -1,0 +1,8 @@
+coordinates:
+  name: redis
+  provider: npmjs
+  type: npm
+revisions:
+  0.1.0:
+    licensed:
+      declared: GPL-2.0-only OR (LGPL-2.1-only OR MPL-1.1)
