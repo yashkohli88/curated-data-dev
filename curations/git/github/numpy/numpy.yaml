@@ -1,0 +1,9 @@
+coordinates:
+  name: numpy
+  namespace: numpy
+  provider: github
+  type: git
+revisions:
+  3dec7099ce38cb189880f6f69df318f35ff9a5ea:
+    licensed:
+      declared: Apache-1.0 AND MIT
